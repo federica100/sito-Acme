@@ -1,0 +1,32 @@
+.background {
+  background-image: url("https://www.nanopress.it/wp-content/uploads/2015/04/Notte-stellata.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+.striscione {
+  position: fixed-top;
+  margin: -8px;
+  height: 60px;
+  background-color: black;
+  border-bottom: 1px solid red;
+  width: 100%;
+  opacity: 0.75;
+}
+.bandiera {
+  width: 50px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+#bellearti {
+  margin-left: 300px;
+  margin-top: -40px;
+  color: white;
+}
+#openday {
+  color: white;
+  margin-left: 500px;
+}
+
