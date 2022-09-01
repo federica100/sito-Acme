@@ -194,4 +194,66 @@ div h2 {
   border: 3px;
   z-index: 1;
 }
+#offertaformativa {
+  background-color: hsl(0, 0%, 6%);
+  border-radius: 20px;
+  padding: 20px;
+  color: white;
+  height: auto;
+  border: 3px solid white;
+}
+#imuniv {
+  width: 100%;
+  height: 100%;
+}
+.artivisive {
+  padding: 20px;
+  text-align: center;
+  margin: 20px 0;
+  border-radius: 20px;
+  border: 3px solid white;
+}
+
+#bgcolor1 {
+  background-color: hsl(0, 100%, 70%);
+}
+
+#bgcolor2 {
+  background-color: hsl(190, 86%, 44%);
+}
+
+#bgcolor3 {
+  background-color: hsl(25, 88%, 48%);
+}
+
+.color1 {
+  color: hsl(0, 100%, 70%);
+}
+
+.color2 {
+  color: hsl(190, 86%, 44%);
+}
+
+.color3 {
+  color: hsl(25, 88%, 48%);
+}
+
+.dipartimentoin {
+  padding-top: 3%;
+  min-height: 100%;
+  text-align: center;
+  background-color: hsl(0, 0%, 10%);
+  border-radius: 20px;
+}
+.social {
+  width: 50px;
+  height: 50px;
+  margin: 0 10px;
+}
+#yticon {
+  width: 70px;
+  height: 70px;
+  margin: 0 10px;
+}
+
 
