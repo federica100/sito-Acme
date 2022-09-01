@@ -5,7 +5,7 @@ Costruzione sito ACME come progetto d'esame per il corso di Web Design, utilizza
 
 Il repository è pubblicato a questo indirizzo: https://ferrentiacme.netlify.app
 
-Ogni modifica viene controllata appena inserita in repository tramite il [seguente workflow](https://github.com/AllyJeager/ACME/blob/main/.github/workflows/main.yml)
+Ogni modifica viene controllata appena inserita in repository tramite il [seguente workflow](https://github.com/federica100/sito-Acme/blob/main/.github/workflows/main.yml)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/87c9fde5-bc4a-412e-9603-c263285d2962/deploy-status)](https://app.netlify.com/sites/progettoesame/deploys)
 
