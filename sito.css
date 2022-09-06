@@ -1,3 +1,8 @@
+
+#font {
+  font-family: Garamond;
+  font-display: swap;
+}
 body {
   background-image: url("https://restaurars.altervista.org/wp-content/uploads/2017/05/amore-e-psiche.jpg");
   background-repeat: no-repeat;
@@ -196,7 +201,7 @@ div h2 {
 }
 #offertaformativa {
   background-color: hsl(0, 0%, 6%);
-  border-radius: 20px;
+  border-radius: 30px;
   padding: 20px;
   color: white;
   height: auto;
@@ -210,32 +215,32 @@ div h2 {
   padding: 20px;
   text-align: center;
   margin: 20px 0;
-  border-radius: 20px;
+  border-radius: 30px;
   border: 3px solid white;
 }
 
 #bgcolor1 {
-  background-color: hsl(0, 100%, 70%);
+  background-color: orange;
 }
 
 #bgcolor2 {
-  background-color: hsl(190, 86%, 44%);
+  background-color: green;
 }
 
 #bgcolor3 {
-  background-color: hsl(25, 88%, 48%);
+  background-color: blue;
 }
 
 .color1 {
-  color: hsl(0, 100%, 70%);
+  color: yellow;
 }
 
 .color2 {
-  color: hsl(190, 86%, 44%);
+  color: green;
 }
 
 .color3 {
-  color: hsl(25, 88%, 48%);
+  color: blue;
 }
 
 .dipartimentoin {
@@ -243,7 +248,7 @@ div h2 {
   min-height: 100%;
   text-align: center;
   background-color: hsl(0, 0%, 10%);
-  border-radius: 20px;
+  border-radius: 30px;
 }
 .social {
   width: 50px;
@@ -257,3 +262,5 @@ div h2 {
 }
 
 
+
+ 
