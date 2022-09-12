@@ -1,8 +1,8 @@
-
 #font {
   font-family: Garamond;
   font-display: swap;
 }
+
 body {
   background-image: url("https://restaurars.altervista.org/wp-content/uploads/2017/05/amore-e-psiche.jpg");
   background-repeat: no-repeat;
@@ -26,11 +26,12 @@ body {
 .bandiera {
   width: 50px;
   margin-left: 30px;
-  margin-top: 8px;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 #bellearti {
   margin-left: 300px;
-  margin-top: -35px;
+  margin-top: -58px;
   color: white;
 }
 .spazio {
@@ -107,6 +108,10 @@ div h2 {
   text-align: center;
   opacity: 0.75;
 }
+#testoffertartistica {
+  text-align: center;
+  padding-top: 50px;
+}
 #fuochi {
   width: 100%;
   height: 100%;
@@ -150,6 +155,8 @@ div h2 {
   border: 4px solid white;
   border-radius: 30px;
   text-align: center;
+  opacity: 0.75;
+  margin-top: -6px;
 }
 
 .top {
@@ -163,6 +170,7 @@ div h2 {
 #toparrow {
   max-width: 50px;
   color: white;
+  cursor: pointer;
 }
 #bottonecookie {
   position: fixed;
@@ -183,6 +191,7 @@ div h2 {
 #perchiusura {
   font-size: 15px;
   margin-left: 200px;
+  cursor: pointer;
 }
 #popup {
   background-color: red;
@@ -198,6 +207,7 @@ div h2 {
   padding: 1px 15px 15px 15px;
   border: 3px;
   z-index: 1;
+  cursor: pointer;
 }
 #offertaformativa {
   background-color: hsl(0, 0%, 6%);
@@ -206,6 +216,7 @@ div h2 {
   color: white;
   height: auto;
   border: 3px solid white;
+  opacity: 0.9;
 }
 #imuniv {
   width: 100%;
@@ -217,6 +228,7 @@ div h2 {
   margin: 20px 0;
   border-radius: 30px;
   border: 3px solid white;
+  opacity: 0.75;
 }
 
 #bgcolor1 {
@@ -261,6 +273,3 @@ div h2 {
   margin: 0 10px;
 }
 
-
-
- 
