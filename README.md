@@ -12,13 +12,13 @@ Ogni modifica viene controllata appena inserita in repository tramite il [seguen
 # Test performance
 [PageSpeed](https://pagespeed.web.dev/report?url=https%3A%2F%2Fferrentiacme.netlify.app%2F)
 
-[GTMetrix](https://gtmetrix.com/reports/github-netlify-boilerplate.netlify.app/6oLETqoh/)
+[GTMetrix](https://gtmetrix.com/reports/ferrentiacme.netlify.app/tlw29w3j/)
 
 # Test seo
-[Seoptimer](https://www.seoptimer.com/github-netlify-boilerplate.netlify.app)
+[Seoptimer](https://www.seoptimer.com/ferrentiacme.netlify.app)
 
 # Test responsive
-[Responsivedesignchecker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fgithub-netlify-boilerplate.netlify.app%2Facme-home.html&width=1400&height=700)
+[Responsivedesignchecker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fferrentiacme.netlify.app&width=1400&height=700)
 
 # Test validatore w3c
-[Test validatore w3c](https://validator.w3.org)
+[Test validatore w3c](https://validator.w3.org/nu/?doc=https%3A%2F%2Fferrentiacme.netlify.app%2F)
