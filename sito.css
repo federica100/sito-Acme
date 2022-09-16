@@ -208,7 +208,7 @@ div h2 {
   position: fixed;
   bottom: 125px;
   left: 100px;
-  width: 250px;
+  width: 210px;
   height: 60px;
   border-radius: 80px;
 }
@@ -222,7 +222,7 @@ div h2 {
 }
 #perchiusura {
   font-size: 15px;
-  margin-left: 200px;
+  margin-left: 169px;
   cursor: pointer;
 }
 #popup {
