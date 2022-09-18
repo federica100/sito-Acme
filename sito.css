@@ -104,6 +104,9 @@ div h2 {
   opacity: 0.75;
   border: 4px solid orange;
   width: 100%;
+  border-radius: 30px;
+  font-size: 23px;
+  
 }
 
 #ampiaofferta {
